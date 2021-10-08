@@ -21,6 +21,8 @@ represent the first digit and pins A6-A9 represent the second digit.
 
 ## Decoder & Seven Segment Display
 
+![Alt text](https://i.gyazo.com/48236cc841c6b16b5d02351cdaa3a774.png)
+
 For the decoder, it is wired to take the inputs from the Arduino which each decoder takes 4 inputs
 from the Arduino for each digit. Following information regarding the CD4511 decoder, the pins are
 wired appropriately with the lamp test and blanking pins supplied to 5V as well as with the latch 
