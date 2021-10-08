@@ -27,4 +27,4 @@ enable pin being grounded for normal operation.
 The seven segment display is also connected appropriately to the decoder with the associated pins
 mapped to the 7 segment decoder pins with the decimal pin grounded (since it is not being used).
 
-[Link To Project](https://www.tinkercad.com/things/e5OWF9QprYq-project)
+Project: (https://www.tinkercad.com/things/e5OWF9QprYq-project)
