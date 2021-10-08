@@ -34,6 +34,7 @@ Project: https://www.tinkercad.com/things/e5OWF9QprYq-project
 ![Alt text](https://i.gyazo.com/6b311f2052b39cec8508ddbc812f8a20.png)
 <br />
 A1: The Arduino and potentiometer
+
 <br />
 ![Alt text](https://i.gyazo.com/48236cc841c6b16b5d02351cdaa3a774.png)
 <br />
