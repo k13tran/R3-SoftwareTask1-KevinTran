@@ -1,3 +1,5 @@
+### By Kevin Tran
+
 # R3-SoftwareTask1-KevinTran
 
 For the project, I had setup an Arduino which is is connected to both the decoder and potentiometer. 
