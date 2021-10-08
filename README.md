@@ -31,8 +31,11 @@ mapped to the 7 segment decoder pins with the decimal pin grounded (since it is 
 
 Project: https://www.tinkercad.com/things/e5OWF9QprYq-project
 
+
 ![Alt text](https://i.gyazo.com/6b311f2052b39cec8508ddbc812f8a20.png)
+
 A1: The Arduino and potentiometer
 
 ![Alt text](https://i.gyazo.com/48236cc841c6b16b5d02351cdaa3a774.png)
+
 A2: The decoder and seven segment display 
