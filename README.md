@@ -35,7 +35,6 @@ Project: https://www.tinkercad.com/things/e5OWF9QprYq-project
 <br />
 A1: The Arduino and potentiometer
 
-<br />
 ![Alt text](https://i.gyazo.com/48236cc841c6b16b5d02351cdaa3a774.png)
 <br />
 A2: The decoder and seven segment display 
