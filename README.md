@@ -7,8 +7,6 @@ displays which show the first 2 digits of the value as converted by the Arduino.
 
 ## Arduino & Potentiometer
 
-![Alt text](https://i.gyazo.com/6b311f2052b39cec8508ddbc812f8a20.png)
-
 The Arduino is connected to the Potentiometer with a 5V power supply with the wiper connected to pin
 A0. The arduino converts the signal to an integer which, as written in the code for the Arduino, is
 converted into a BCD value to be later outputted to the decoder.
@@ -21,8 +19,6 @@ represent the first digit and pins A6-A9 represent the second digit.
 
 ## Decoder & Seven Segment Display
 
-![Alt text](https://i.gyazo.com/48236cc841c6b16b5d02351cdaa3a774.png)
-
 For the decoder, it is wired to take the inputs from the Arduino which each decoder takes 4 inputs
 from the Arduino for each digit. Following information regarding the CD4511 decoder, the pins are
 wired appropriately with the lamp test and blanking pins supplied to 5V as well as with the latch 
@@ -34,3 +30,7 @@ mapped to the 7 segment decoder pins with the decimal pin grounded (since it is 
 ## Appendix
 
 Project: https://www.tinkercad.com/things/e5OWF9QprYq-project
+
+![Alt text](https://i.gyazo.com/6b311f2052b39cec8508ddbc812f8a20.png)
+
+![Alt text](https://i.gyazo.com/48236cc841c6b16b5d02351cdaa3a774.png)
