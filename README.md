@@ -7,6 +7,8 @@ displays which show the first 2 digits of the value as converted by the Arduino.
 
 ## Arduino & Potentiometer
 
+![Alt text](https://i.gyazo.com/6b311f2052b39cec8508ddbc812f8a20.png)
+
 The Arduino is connected to the Potentiometer with a 5V power supply with the wiper connected to pin
 A0. The arduino converts the signal to an integer which, as written in the code for the Arduino, is
 converted into a BCD value to be later outputted to the decoder.
