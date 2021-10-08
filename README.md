@@ -1,6 +1,6 @@
 ### By Kevin Tran
 
-# R3-SoftwareTask1-KevinTran
+# R3 - Software Task 1
 
 For the project, I had setup an Arduino which is is connected to both the decoder and potentiometer. 
 The Arduino reads input from the potentiometer which is converted into a integer value and outputted
